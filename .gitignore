@@ -1,0 +1,14 @@
+# Local runtime and environment files
+.env
+.env.*
+!.env.example
+npm-debug.log*
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Snapshot backups are kept locally but are not part of the deployable site
+*.orig
