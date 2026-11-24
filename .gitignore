@@ -12,3 +12,5 @@ Thumbs.db
 
 # Snapshot backups are kept locally but are not part of the deployable site
 *.orig
+*.bak
+*.bak-*
